@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: chat-bot
+  threads:
+    virtual:
+      enabled: true
+
+
+telegram:
+  bot:
+    config:
+      token: 7140980098:AAHUBamYQ9_BDZfRWxV_Yv3E-Ze2x1cSoDU
+      userName: 5760639009
